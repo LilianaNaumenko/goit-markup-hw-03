@@ -1,0 +1,259 @@
+body {
+  font-family: Roboto;
+  color: #212121;
+}
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+header {
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+
+main {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+.container {
+  width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+a {
+  color: #212121;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #212121;
+}
+ul {
+  list-style: none;
+}
+
+.logo {
+  font-family: Raleway;
+  font-weight: bold;
+  color: #2196f3;
+  margin-top: 0;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+.logo > span {
+  color: #212121;
+}
+
+.nav-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+}
+
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+.contact-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  color: #757575;
+  margin-top: 0;
+  margin-bottom: 9px;
+  display: inline-block;
+}
+
+.section-main {
+  background-color: #2f303a;
+  color: #ffffff;
+  text-align: center;
+}
+.section-comand {
+  background-color: #f5f4fa;
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
+.main-heading {
+  font-family: Roboto;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  margin-top: 0;
+  margin-bottom: 30;
+  padding-top: 200px;
+}
+.button-service {
+  color: #ffffff;
+  background-color: #2196f3;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.88;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  border: none;
+  margin-top: 0;
+  margin-bottom: 200px;
+  border-radius: 4px;
+  width: 200px;
+  left: 700px;
+  top: 430px;
+  display: inline-block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 32px;
+  padding-right: 32px;
+  cursor: pointer;
+}
+.advantage-section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+.advantage-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.14;
+  color: #212121;
+  margin-bottom: 10px;
+}
+.advantage-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.7;
+  color: #757575;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.capabilities-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  color: #212121;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+.capabilities-photo {
+  width: 370px;
+}
+.comand {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.17;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.comand-photo {
+  width: 270px;
+  margin-bottom: 30px;
+}
+.comand-name {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.comand-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.9;
+  color: #757575;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+footer {
+  background: #2f303a;
+}
+
+.address-company {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.7;
+  color: #ffffff;
+  margin-top: 0;
+  margin-bottom: 9px;
+}
+.button-section {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  background: #f5f4fa;
+  border-radius: 4px;
+  border: none;
+  border-radius: 4px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 22px;
+  padding-right: 22px;
+  display: inline-block;
+  cursor: pointer;
+  margin-bottom: 56px;
+  margin-top: 0;
+}
+.button-section:hover,
+.button-section:focus {
+  background-color: #2196f3;
+  color: #ffffff;
+}
+.section-title {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 2;
+  color: #212121;
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+.section-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.9;
+  color: #757575;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.contact {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.section-photo {
+  width: 370px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
