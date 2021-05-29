@@ -220,8 +220,11 @@ footer {
   padding-right: 22px;
   display: inline-block;
   cursor: pointer;
-  margin-bottom: 56px;
+
   margin-top: 0;
+}
+.ul-button-section {
+  margin-bottom: 56px;
 }
 .button-section:hover,
 .button-section:focus {
